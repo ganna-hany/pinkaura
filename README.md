@@ -41,7 +41,7 @@ Pink Aura is designed following modern backend development practices using the M
 - Java
 - Spring Boot
 - Spring Data JPA
-- Hibernate
+
 
 ### Frontend
 
@@ -64,7 +64,7 @@ Pink Aura is designed following modern backend development practices using the M
 - Git
 - GitHub
 - Maven
-- Eclipse IDE
+- Vs Code
 
 ---
 
@@ -88,17 +88,6 @@ src/
 
 ---
 
-## Screenshots
-
-Screenshots will be added soon.
-
-- Home Page
-- Product Catalog
-- Shopping Cart
-- User Authentication
-- Admin Dashboard
-
----
 
 ## Technical Highlights
 
