@@ -141,8 +141,3 @@ The application will be available at:
 http://localhost:8080
 ```
 
----
-
-## License
-
-This project was developed for educational and portfolio purposes.
